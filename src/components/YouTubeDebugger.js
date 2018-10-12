@@ -27,7 +27,7 @@ resolutionEvent = () => {
         video: Object.assign({}, this.state.settings.video, {
 resolution: '720p'
     }),
-    });
+    },
   })
 }
 
