@@ -28,7 +28,7 @@ resolutionEvent = () => {
 resolution: '720p'
     }),
     });
-  }
+  })
 }
 
   render() {
